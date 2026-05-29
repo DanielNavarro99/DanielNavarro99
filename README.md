@@ -1,34 +1,44 @@
-<h1 align="center">
-  Hola, soy Daniel 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>Ing. Sistemas Computacionales · TecNM Chapala</b><br>
-  Visión computacional · Infraestructura Linux · Desarrollo Android
-</p>
+```
+ ██████╗  █████╗ ███╗   ██╗██╗███████╗██╗
+ ██╔══██╗██╔══██╗████╗  ██║██║██╔════╝██║
+ ██║  ██║███████║██╔██╗ ██║██║█████╗  ██║
+ ██║  ██║██╔══██║██║╚██╗██║██║██╔══╝  ██║
+ ██████╔╝██║  ██║██║ ╚████║██║███████╗███████╗
+ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝
+```
 
-<p align="center">
-  <a href="mailto:danielsantosnava99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/daniel-santos-navarro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+**`> Ing. Sistemas Computacionales · TecNM Jocotepec`**
 
----
+Visión Computacional · Infraestructura Linux · Android Dev
 
-### 🧑‍💻 Sobre mí
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsantosnava99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-santos-navarro)
+![Location](https://img.shields.io/badge/Jalisco,_MX-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Open](https://img.shields.io/badge/Open_to_residencia-3fb950?style=for-the-badge&logo=github&logoColor=white)
 
-- 🎓 8° semestre en Ingeniería en Sistemas Computacionales
-- 🔭 Actualmente trabajando en **Tutor-IA** — sistema pedagógico con LLMs
-- 🛡️ Experiencia en detección de objetos: **YOLOv5 + Tesseract OCR**
-- 🐧 Administro servidores **Linux (Ubuntu Server / WSL2)** con Docker y Nginx
-- 📱 Desarrollo apps Android nativas con **Kotlin + Jetpack Compose**
-- 📡 Análisis de redes con **Wireshark** y simulación en **Cisco Packet Tracer**
-- 🌱 Aprendiendo más sobre **Machine Learning** e infraestructura cloud
-- 📫 Contacto: **danielsantosnava99@gmail.com**
-- ⚡ Fun fact: debuggeo mejor con música a todo volumen
+</div>
 
 ---
 
-### 🛠️ Stack tecnológico
+### `$ cat about_me.txt`
+
+```
+> 🎓 8° semestre en Ingeniería en Sistemas Computacionales
+> 🔭 Actualmente trabajando en Tutor-IA — sistema pedagógico con LLMs
+> 🤖 Experiencia en visión computacional: YOLOv5 + Tesseract OCR
+> 🐧 Administro servidores Linux (Ubuntu Server / WSL2) con Docker y Nginx
+> 📱 Desarrollo apps Android nativas con Kotlin + Jetpack Compose
+> 📡 Análisis de redes con Wireshark y simulación en Cisco Packet Tracer
+> 🌱 Aprendiendo más sobre Machine Learning e infraestructura cloud
+> 📫 Contacto: danielsantosnava99@gmail.com
+> ⚡ Fun fact: debuggeo mejor con música a todo volumen
+```
+
+---
+
+### `$ ls ./stack/`
 
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -45,27 +55,31 @@
 
 ---
 
-### 🚀 Proyectos destacados
+### `$ git log --oneline ./projects/`
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| 🧠 **Tutor-IA** | Sistema pedagógico con LLMs para enseñanza de POO | Python · LLMs · Backend |
-| 🚗 **Placas Vehiculares** | Detección y lectura de placas de Jalisco con visión artificial | YOLOv5 · Tesseract · Docker |
-| 📱 **SQL Learning App** | App Android para aprender SQL con sistema XP y rachas | Kotlin · Jetpack Compose · Room |
-| 🤖 **Robot Seguidor de Línea** | Diseño de PCB con ESP32 para robot autónomo | EasyEDA · ESP32 · Hardware |
-| 🌐 **Infraestructura TI** | Servidor Proxy Squid contenedorizado con filtrado avanzado | Docker · WSL2 · Nginx |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielNavarro99&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNavarro99&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+| | Proyecto | Descripción | Stack |
+|---|---|---|---|
+| 🟣 | **Tutor-IA** | Sistema pedagógico con LLMs para enseñanza de POO | Python · LLMs · Backend |
+| 🔵 | **Placas Vehiculares** | Detección y lectura de placas de Jalisco con visión artificial | YOLOv5 · Tesseract · Docker |
+| 🟢 | **SQL Learning App** | App Android con XP, rachas y examen final desbloqueado | Kotlin · Jetpack Compose · Room |
+| 🟠 | **Robot Seguidor de Línea** | Diseño de PCB con ESP32 + TB6612FNG | EasyEDA · ESP32 · Hardware |
+| ⚪ | **Infraestructura TI** | Proxy Squid contenedorizado con filtrado avanzado | Docker · WSL2 · Nginx |
 
 ---
 
-<p align="center">
-  <i>Abierto a residencias profesionales y colaboraciones técnicas 🚀</i>
-</p>
+### `$ neofetch --stats`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielNavarro99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNavarro99&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="150"/>
+</div>
+
+---
+
+<div align="center">
+
+```
+> Abierto a proyectos y colaboraciones técnicas 🚀_
+```
+
+</div>
