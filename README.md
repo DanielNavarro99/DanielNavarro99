@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Ing. Sistemas Computacionales · TecNM Jocotepec</b><br>
+  <b>Ing. Sistemas Computacionales · TecNM Chapala</b><br>
   Visión computacional · Infraestructura Linux · Desarrollo Android
 </p>
 
