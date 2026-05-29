@@ -9,7 +9,7 @@
  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝
 ```
 
-**`> Ing. Sistemas Computacionales · TecNM Jocotepec`**
+**`> Ing. Sistemas Computacionales · TecNM Chapala`**
 
 Visión Computacional · Infraestructura Linux · Android Dev
 
