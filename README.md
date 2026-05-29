@@ -16,7 +16,7 @@ Visión Computacional · Infraestructura Linux · Android Dev
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsantosnava99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-santos-navarro)
 ![Location](https://img.shields.io/badge/Jalisco,_MX-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Open](https://img.shields.io/badge/Open_to_residencia-3fb950?style=for-the-badge&logo=github&logoColor=white)
+
 
 </div>
 
